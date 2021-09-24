@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [gitbookhtml](README.md)
+* [Citizen Code of Conduct](code_of_conduct.md)
 
