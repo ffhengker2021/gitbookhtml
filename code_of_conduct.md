@@ -73,8 +73,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-mail : jencreacven@gmail.com  
-instagram : jencreacven
+jencreacven@gmail.com
 
 ## 11. License and attribution
 
