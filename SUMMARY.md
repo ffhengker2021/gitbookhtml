@@ -1,5 +1,5 @@
 # Table of contents
 
-* [gitbookhtml](README.md)
+* [HTML \| Bahasa Indonesia](README.md)
 * [Citizen Code of Conduct](code_of_conduct.md)
 
