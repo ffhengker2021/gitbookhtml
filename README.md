@@ -1,5 +1,5 @@
 ---
-description: Pembukaan
+description: 'Halaman Pembuka [ Informasi seputar website dan donasi ]'
 ---
 
 # HTML \| Bahasa Indonesia
