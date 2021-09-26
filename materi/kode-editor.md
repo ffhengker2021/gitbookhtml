@@ -28,9 +28,9 @@ Sublime Text adalah kode atau text editor yang bisa dikatakan hampir sama dengan
 
 Saat ini kemajuan teknologi telah semakin maju dengan pesat. Kita dapat melakukan kodingan melalui website secara online bahkan dapat menyimpan file kodingan tersebut. Kelebihan dari kode editor online ini kita tidak perlu repot-repot melakukan instalasi atau pemasangan kode editor. Menggunakan kode editor online sangat kami sarankan apabila kamu belajar pemograman dari web dan juga disarankan menggunakannya ketika berada pada halaman ini, sehingga kamu dapat mudah membuka kode editor tanpa perlu melakukan instalasi dan lebih ringan memakan memori. Salah satu kode editor online yang disarankan adalah [playcode.io](https://playcode.io/) . Kamu dapat menggunakannya secara gratis \(dengan batasan tertentu\) dan hanya perlu akses ke internet saja.
 
-## Kontribusi
+## Terima kasih telah melakukan kontribusi
 
-Terima Kasih telah memberikan kontribusinya 
+Kami mengucapkan terima kasih yang sebesarnya bagi siapapun kontributor pada halaman ini.
 
 * Ikram Wadudu
 

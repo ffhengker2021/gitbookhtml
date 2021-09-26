@@ -90,9 +90,9 @@ Syntax ini adalah salah satu dari sekian banyak syntax atau element yang dapat d
 
 Dalam penggunaan tag HTML, kita harus menggunakan tag pembuka dan tag penutup. Seperti `<tagpembuka>konten</tagpenutup>`. Namun, tidak semua tag harus menggunakan tag penutup diantaranya seperti tag `<img>` yang berfungsi sebagai menampilkan gambar. tag `<img>` tidak perlu menggunakan tag penutup, contohnya `<img src="gambar.png">`.
 
-## Kontribusi
+## Terima kasih telah melakukan kontribusi
 
-Terima Kasih telah memberikan kontribusinya 
+Kami mengucapkan terima kasih yang sebesarnya bagi siapapun kontributor pada halaman ini.
 
 * Ikram Wadudu
 
